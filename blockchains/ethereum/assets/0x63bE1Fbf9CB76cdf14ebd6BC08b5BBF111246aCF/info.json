@@ -1,0 +1,10 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT\u200b",
+  "decimals": 6,
+  "description": "Tether USD on Ethereum Network",
+  "website": "https://example.com",
+  "explorer": "https://etherscan.io/token/0x63bE1Fbf9CB76cdf14ebd6BC08b5BBF111246aCF",
+  "status": "active",
+  "id": "tether-usd-opppo"
+}
